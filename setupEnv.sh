@@ -1,0 +1,3 @@
+export  OPENAI_API_KEY=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
+
+export MONGODB_URI="mongodb+srv://sheiladoyle:sheiladoyle@cluster0.qpugjl.mongodb.net/?appName=Cluster0"
